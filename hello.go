@@ -7,5 +7,5 @@ func main(){
 		dev
 		master1
 		feature1
-		feature1
+		feature2
 }
