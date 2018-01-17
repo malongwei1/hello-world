@@ -8,4 +8,6 @@ func main(){
 		master1
 		feature1
 		feature2
+		hello2
+		sdf
 }
